@@ -3,5 +3,5 @@
 I'm a README file
 
 ```bash
-echo "yo"
+echo "yo :)"
 ```
